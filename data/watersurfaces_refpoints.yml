@@ -1,11 +1,11 @@
 ..generic:
-  git2rdata: 0.3.1
+  git2rdata: 0.4.0
   optimize: yes
   NA string: NA
-  sorting: code_watersurfaces
-  hash: 743ab89ab51f186a474824a8d601db271ae32392
-  data_hash: 998f032930262d96bb08d9f40382a5aee9915ea0
-code_watersurfaces:
+  sorting: polygon_id
+  hash: 10589f602c9fbf4db8dc97418f54e9b87de37f31
+  data_hash: 2b39fb26b85cecd546ebd71a2025dfe7337c02d6
+polygon_id:
   class: character
 grts_ranking:
   class: numeric
